@@ -1,10 +1,11 @@
 <!-- #### I'm currently looking for an internship. Contact me via [email](mailto:oknakoca@gmail.com) or [LinkedIn](https://www.linkedin.com/in/okankoca/)! -->
 
-
-<img align="left" src="imgs/catTwo.jpeg" alt="bruh" width="228" />
 <!-- ![cropped_wall](https://github.com/nyzss/nyzss/assets/81782738/8c6c6423-83b4-4eb5-81e4-14cc7ac773c9) -->
 
 ```csharp
+
+<img align="left" src="imgs/catTwo.jpeg" alt="bruh" width="228" />
+
 So_zahra@github
 -------------------------
 OS: Ubuntu 22.04.5 LTS x86_64
@@ -13,6 +14,8 @@ Currently: student@42
 Location: Paris, FR
 Discord: so_zahra
 ```
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
