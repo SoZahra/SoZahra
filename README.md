@@ -9,6 +9,7 @@
 So_zahra@github
 -------------------------
 OS: Ubuntu 22.04.5 LTS x86_64
+Shell: zsh 5.8
 Currently: student@42
 Location: Paris, FR
 Discord: so_zahra
