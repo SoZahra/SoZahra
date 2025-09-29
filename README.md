@@ -18,6 +18,29 @@ Discord: so_zahra
 </p>
 
 <h2 align="center"> <em></em></h2>
+
+<p align="center">
+   ✨   <em><b>Studying Graphic Design and Artistic Direction</b></em>✨<br/>
+   ✨   <em><b>Learning to code at 42 Paris</b></em>✨<br/>
+   ✨   <em><b>Love to draw and paint</b></em>✨<br/>
+   ✨   <em><b>Learning Violin</b></em>✨<br/>
+</p>
+
+<h2 align="center"> <em></em></h2>
+
+
+<p align="center">
+  <code>C++</code> • 
+  <code>JavaScript</code> • 
+  <code>Python</code> • 
+  <code>HTML</code> • 
+  <code>React</code> • 
+  <code>TypeScript</code> • 
+  <code>Tailwind CSS</code> • 
+  <code>Swift</code> • 
+  <code>Rust</code> • 
+  <code>Docker</code>
+</p>
 <!-- <p align="left">
   <a href="https://www.linkedin.com/in/tu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-99A285?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,10 +55,3 @@ Discord: so_zahra
     <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a> -->
 <!-- </p> -->
-
-<p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
-</p>
