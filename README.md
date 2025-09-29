@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=99A285&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+Fatima+Zahra's+world" alt="Welcome" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6BABE3&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+Fatima+Zahra's+world" alt="Welcome" />
 </p>
 
 <img align="left" src="imgs/catTwo.jpeg" alt="bruh" width="228" />
