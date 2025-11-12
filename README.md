@@ -4,6 +4,16 @@
 
 <img align="left" src="imgs/catTwo.jpeg" alt="bruh" width="228" />
 
+```csharp
+So_zahra@github
+-------------------------
+OS: Ubuntu 22.04.5 LTS x86_64
+Shell: zsh 5.8
+Currently: student@42
+Location: Paris, FR
+Disc
+```
+
 <p>
 <b>I'm Fatima Zahra</b>, a Full stack student at 42 Paris. I love to learn new languages and create a perfect composition. Now i'm working at some little and fun projects to put in pratice my knowledge.
 </p>
