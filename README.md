@@ -41,9 +41,6 @@ Disc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sozahra&theme=blue_navy&hide_border=false&layout=compact" height="180em"/>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=sozahra&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <h2 align="center"> <em></em></h2>
 
