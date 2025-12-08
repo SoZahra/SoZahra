@@ -38,7 +38,6 @@ Disc
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=sozahra&theme=blue_navy&hide_border=false" height="180em"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sozahra&theme=blue_navy&hide_border=false&layout=compact" height="180em"/>
 </p>
 
 
