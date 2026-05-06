@@ -15,16 +15,17 @@ Disc
 ```
 
 <p>
-<b>I'm Fatima Zahra</b>, a Full stack student at 42 Paris. I love to learn new languages and create a perfect composition. Now i'm working at some little and fun projects to put in pratice my knowledge.
+<b>Hi, I'm Fatima Zahra!</b>, Crafting interfaces | Writing code | Learning languages. Currently navigating the full-stack world at <b>42 Paris</b> while keeping my heart in UI/UX Design. I believe in the power of a perfect composition and a smooth user journey. Check out my latest repositories to see how I combine logic with aesthetics!
 </p>
 
 <h2 align="center"> <em></em></h2>
 
 <p align="center">
    ✨   <em><b>Studying Graphic Design and Artistic Direction</b></em>✨<br/>
+   ✨   <em><b>Learning about UI/UX Design</b></em>✨<br/>
    ✨   <em><b>Learning to code at 42 Paris</b></em>✨<br/>
    ✨   <em><b>Love to draw and paint</b></em>✨<br/>
-   ✨   <em><b>Learning Violin</b></em>✨<br/>
+   ✨   <em><b>Learning Violin and guitar</b></em>✨<br/>
 </p>
 
 <h2 align="center"> <em></em></h2>
