@@ -27,27 +27,23 @@ Location: Paris, FR
 
 <h2 align="center"> <em></em></h2>
 
-
+<p align="center"><b>🛠️ Design Toolbox</b></p>
 <p align="center">
-  <code>Figma</code> • 
-  <code>Framer</code> • 
-  <code>Prototyping</code> • 
-  <code>User Research</code> • 
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23DA1F26.svg?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
 </p>
-
 
 <h2 align="center"> <em></em></h2>
 
+<p align="center"><b>💻 Development Stack</b></p>
 <p align="center">
-  <code>JavaScript</code> • 
-  <code>Python</code> • 
-  <code>HTML</code> • 
-  <code>React</code> • 
-  <code>TypeScript</code> • 
-  <code>Tailwind CSS</code> • 
-  <code>Swift</code> • 
-  <code>AWS</code> • 
-  <code>Docker</code>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 
