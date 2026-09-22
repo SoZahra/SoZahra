@@ -15,6 +15,12 @@ Location: Paris, FR
 <b>Hi, I'm Fatima Zahra!</b>, Crafting interfaces | Writing code | Learning languages. Currently navigating the full-stack world at <b>42 Paris</b> while keeping my heart in UI/UX Design. I believe in the power of a perfect composition and a smooth user journey. Check out my latest repositories to see how I combine logic with aesthetics!
 </p>
 
+<p align="center">
+  <a href="https://fatimahzahr.fr">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-fatimahzahr.fr-6BABE3?style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
+
 <h2 align="center"> <em></em></h2>
 
 <p align="center">
